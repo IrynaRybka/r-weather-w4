@@ -13,6 +13,9 @@ root.render(
       <h1>Weather App</h1>
       <WeatherSearch />
     </div>
+    <p class="coded">Coded by Iryna Rybka
+        <a class="link"  href="https://github.com/IrynaRybka/r-weather-w4" target="_blank" rel="noreferrer noopener">GitHub</a>
+      </p>
     <App />
   </React.StrictMode>
 );
